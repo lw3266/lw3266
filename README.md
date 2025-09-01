@@ -1,9 +1,10 @@
 # Welcome
 
 ### Project Highlight
-| Project | Project |
-|---------|---------|
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lw3266&repo=RAG-with-Redis&theme=tokyonight)](https://github.com/lw3266/project-one) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lw3266&repo=good-habits&theme=tokyonight)](https://github.com/YOUR_USERNAME/project-two) |
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lw3266&repo=RAG-with-Redis&theme=merko)](https://github.com/lw3266/project-one)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lw3266&repo=good-habits&theme=yeblu)](https://github.com/YOUR_USERNAME/project-two)
 
 
 ### 📊 GitHub Stats
